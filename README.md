@@ -1,2 +1,2 @@
 # Websockets Tutorial
-build An real time web application with websockets.
+build An real-time web application with websockets.
